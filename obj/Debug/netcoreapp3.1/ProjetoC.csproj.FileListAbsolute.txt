@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC.deps.json
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC.runtimeconfig.json
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC.dll
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/bin/Debug/netcoreapp3.1/ProjetoC.pdb
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.dll
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.pdb
+/home/maiara/Área de Trabalho/ProjetoC/ProjetoC/obj/Debug/netcoreapp3.1/ProjetoC.genruntimeconfig.cache
